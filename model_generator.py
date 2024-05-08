@@ -1,7 +1,8 @@
 import argparse
-from core.parser import DBMLDiagramParser
-from core.utils import JinjaTemplateDiscovery
-from core.handlers import DBMLToDjango
+
+from django_sage_model_generator.core.parser import DBMLDiagramParser
+from django_sage_model_generator.core.utils import JinjaTemplateDiscovery
+from django_sage_model_generator.core.handlers import DBMLToDjango
 
 def main(dbml_file, root_directory):
     """
