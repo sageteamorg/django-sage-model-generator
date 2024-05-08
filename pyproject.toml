@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "v4"
+name = "django model generator"
 version = "0.1.0"
 description = ""
-authors = ["radin qahremani <radinceorc77@gmail.com>"]
+authors = ["radin qahremani <radinceorc77@gmail.com>", "sepehr akbarzadeh <sa.goldeneagle@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
