@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django model generator"
+name = "django-sage-model-generator"
 version = "0.1.0"
 description = ""
 authors = ["radin qahremani <radinceorc77@gmail.com>", "sepehr akbarzadeh <sa.goldeneagle@gmail.com>"]
